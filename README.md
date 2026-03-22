@@ -5,9 +5,9 @@ Zajęcia te polegały na zaprojektowaniu prostej pływki PCB, a następnie samod
   
 Zgodnie z zaleceniami prowadzącego projekt ten bazuje na podstawie jednego z kit-ów dostępnym w sklepie AVT.  
   
-Jest to układ zegara z wyświetlaczem siedmiosegmentowym. Płytka ta wykorzystuje ukłąd scalony PCF8583 który odpowiada za funkcje zegara. Oraz mikrokontroler Atmega8, który odpowiada za obsługe wyświetlacza siedmiosegmentowego.  
+Jest to układ zegara z wyświetlaczem siedmiosegmentowym. Płytka ta wykorzystuje układ scalony PCF8583 który odpowiada za funkcje zegara. Oraz mikrokontroler Atmega8, który odpowiada za obsługę wyświetlacza siedmiosegmentowego.  
   
-Rónież zgodnie z jednym z wymogów prowadzącego, oba schematy wykonane zostały w Autodesk Eagle.  
+Również zgodnie z jednym z wymogów prowadzącego, oba schematy wykonane zostały w Autodesk Eagle.  
   
 ![](sch.png)
 ![](brd.png)
